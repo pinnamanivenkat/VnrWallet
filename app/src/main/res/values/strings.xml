@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">VnrWallet</string>
+    <string name="Complete">Success</string>
+    <string name="Error">Failed</string>
+    <string name="Submit">Request OTP</string>
+    <string name="Login">Sign in</string>
+    <string name="Signup">Register</string>
+    <string name="auth_failed">Authentiation Failed Please try again</string>
+    <string name="email">Email Id</string>
+    <string name="rollno">RollNo</string>
+    <string name="password">Password</string>
+    <string name="contactno">Contact No.</string>
+    <string name="user_profile_photo">http://baobaoloveyou.com/flowingdrawer_icon.png</string>
+    <string name="exit">Exit</string>
+    <string name="logout">Logout</string>
+    <string name="library_card">Library Card</string>
+    <string name="id_card">Id Card</string>
+    <string name="qr_code">Qr Code</string>
+    <string name="shared_pref_file">com.venkat.projects.vnrwallet.LoginData</string>
+</resources>

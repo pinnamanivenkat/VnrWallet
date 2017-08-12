@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "955707474474",
+    "firebase_url": "https://vnrwallet-7f32e.firebaseio.com",
+    "project_id": "vnrwallet-7f32e",
+    "storage_bucket": "vnrwallet-7f32e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955707474474:android:c0deba115885a217",
+        "android_client_info": {
+          "package_name": "com.venkat.projects.vnrwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955707474474-27a63bh3uu4419nccfchm4ch43r2i0ju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.venkat.projects.vnrwallet",
+            "certificate_hash": "c5d71a650daf56b84686cb475ecbce74c2bba931"
+          }
+        },
+        {
+          "client_id": "955707474474-1d9g2jno447mu9r186n63d58tkkt363i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYES9gUHxG_7pqjbmLGK97YiruU38y-yA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955707474474-1d9g2jno447mu9r186n63d58tkkt363i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
